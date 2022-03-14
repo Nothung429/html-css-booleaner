@@ -1,11 +1,28 @@
+/* Banner del sito */
 #banner{
-    background-color: rgb(34, 119, 216);
+    background-color: rgb(74, 137, 209);
     background-image: url(img/pattern.png);
     height: 80px;
     background-size: contain;
 }
 
+/* stile dell'header */
 #logo {
     width: 15%;
     padding-top: 30px;
+}
+
+.credits {
+    color: grey;
+    font-size: 20px;
+}
+
+#link {
+    text-decoration: none;
+    color: rgb(25, 134, 206);
+}
+
+#data {
+    font-size: 14px;
+    color: grey;
 }
