@@ -1,10 +1,11 @@
+/* informazioni stile generale pagina */
 body {
-    margin: 0% 4%;
+    margin: 0% 10%;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Banner del sito */
+/* stile banner del sito */
 #banner{
     background-color: rgb(74, 137, 209);
     background-image: url(img/pattern.png);
@@ -12,13 +13,12 @@ body {
     background-size: contain;
 }
 
-/* stile dell'header */
-
 #logo {
     width: 15%;
     padding-top: 30px;
 }
 
+/* stile dell'header */
 .credits {
     color: grey;
     font-size: 20px;
@@ -52,4 +52,16 @@ thead {
 
 .dispari {
     background-color: rgb(52, 180, 202);
+}
+
+h4 {
+    color: darkgray;
+}
+
+#articolo1 {
+    background-image: url(monitor.jpg);
+    height: 80px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
 }
