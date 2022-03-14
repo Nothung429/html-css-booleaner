@@ -54,14 +54,32 @@ thead {
     background-color: rgb(52, 180, 202);
 }
 
+/* stile footer */
 h4 {
     color: darkgray;
 }
 
+/* altri articoli */
 #articolo1 {
-    background-image: url(monitor.jpg);
-    height: 80px;
+    background-image: url(img/graph.jpg);
+    height: 160px;
+    width: 220px;
+    background-size: cover; 
+    margin-bottom: 1%;
+}
+
+#articolo2 {
+    background-image: url(img/monitor.jpg);
+    height: 160px;
+    width: 220px;
+    background-size: cover; 
+}
+
+.other {
     color: white;
     font-size: 18px;
     font-weight: bold;
+    text-decoration: none;
+    padding: 15%;
 }
+
