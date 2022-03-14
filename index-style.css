@@ -3,6 +3,7 @@ body {
     margin: 0% 10%;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
 }
 
 /* stile banner del sito */
@@ -32,12 +33,17 @@ body {
 #data {
     font-size: 14px;
     color: grey;
-    padding-bottom: 20px;
+}
+
+.immaginiarticolo {
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 #photocredits {
     font-size: 14px;
     color: rgb(94, 93, 93);
+    margin-bottom: 15px;
 }
 
 /* stile tabella */
@@ -80,6 +86,5 @@ h4 {
     font-size: 18px;
     font-weight: bold;
     text-decoration: none;
-    padding: 15%;
 }
 
