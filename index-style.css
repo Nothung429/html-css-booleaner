@@ -35,12 +35,12 @@ body {
     color: grey;
 }
 
-.immaginiarticolo {
+.immagini.articolo {
     margin-top: 15px;
     margin-bottom: 15px;
 }
 
-#photocredits {
+#phcredits {
     font-size: 14px;
     color: rgb(94, 93, 93);
     margin-bottom: 15px;
@@ -49,6 +49,7 @@ body {
 /* stile tabella */
 table {
     padding-bottom: 30px;
+    border-spacing: 0px;
 }
 
 thead {
