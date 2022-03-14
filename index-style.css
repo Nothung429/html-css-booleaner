@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 /* Banner del sito */
 #banner{
     background-color: rgb(74, 137, 209);
@@ -7,6 +13,10 @@
 }
 
 /* stile dell'header */
+#inizio {
+    padding-top: 20px;
+}
+
 #logo {
     width: 15%;
     padding-top: 30px;
@@ -25,4 +35,10 @@
 #data {
     font-size: 14px;
     color: grey;
+    padding-bottom: 20px;
+}
+
+#photocredits {
+    font-size: 14px;
+    color: rgb(94, 93, 93);
 }
