@@ -39,3 +39,17 @@ body {
     font-size: 14px;
     color: rgb(94, 93, 93);
 }
+
+/* stile tabella */
+table {
+    padding-bottom: 30px;
+}
+
+thead {
+    background-color: rgb(26, 99, 182);
+    color: white;
+}
+
+.dispari {
+    background-color: rgb(52, 180, 202);
+}
