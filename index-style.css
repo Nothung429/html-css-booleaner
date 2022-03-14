@@ -1,0 +1,11 @@
+#banner{
+    background-color: rgb(34, 119, 216);
+    background-image: url(img/pattern.png);
+    height: 80px;
+    background-size: contain;
+}
+
+#logo {
+    width: 15%;
+    padding-top: 30px;
+}
