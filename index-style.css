@@ -8,7 +8,7 @@ body {
 
 /* stile banner del sito */
 #banner{
-    background-color: rgb(74, 137, 209);
+    background-color: rgb(78, 160, 255);
     background-image: url(img/pattern.png);
     height: 80px;
     background-size: contain;
@@ -27,7 +27,7 @@ body {
 
 #link {
     text-decoration: none;
-    color: rgb(25, 134, 206);
+    color: rgb(80, 188, 235);
 }
 
 #data {
@@ -53,12 +53,12 @@ table {
 }
 
 thead {
-    background-color: rgb(26, 99, 182);
+    background-color: rgb(32, 169, 229);
     color: white;
 }
 
 .dispari {
-    background-color: rgb(52, 180, 202);
+    background-color: rgb(177, 229, 242);
 }
 
 /* stile footer */
